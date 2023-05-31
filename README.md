@@ -20,4 +20,4 @@ Dyalog's original problem statements here:
 - [Phase 2 problems (2019)](https://www.dyalog.com/uploads/files/student_competition/2019_problems_phase2.pdf)
 
 Fun times!
-And thank, you APL.
+And thank you, APL.
